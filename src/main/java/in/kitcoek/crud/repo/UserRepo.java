@@ -9,7 +9,7 @@ import java.util.List;
 public class UserRepo {
     private String jdbcURL = "jdbc:postgresql://localhost:5432/userdb?useSSL=false";
     private String jdbcUsername = "mss";
-    private String jdbcPassword = "Mangoba1$";
+    private String jdbcPassword = "Kitcoek12#";
 
     private static final String INSERT_USERS_SQL = "INSERT INTO users" + "  (name, email, country) VALUES "
             + " (?, ?, ?);";
